@@ -5,9 +5,9 @@
 <body>
  <head>
         <meta charset="UTF-8">
-        <meta http-equiv="refresh" content="1;url="http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1F7BBPz&sa=D&sntz=1&usg=AFQjCNHtjuswLhr2wly8LZa8A3WAgCPclg=AFQjCNEVe2UZGLgBbZjuRXTk6dotM082xQ">
+        <meta http-equiv="refresh" content="1;url="https://www.youtube.com/watch?v=3tK9qIdoJ6I">
         <script type="text/javascript">
-            window.location.href = "http://www.google.com/url?q=http%3A%2F%2Fbit.ly%2F1F7BBPz&sa=D&sntz=1&usg=AFQjCNHtjuswLhr2wly8LZa8A3WAgCPclg"
+            window.location.href = "https://www.youtube.com/watch?v=3tK9qIdoJ6I"
         </script>
         <title>Page Redirection</title>
     </head>
